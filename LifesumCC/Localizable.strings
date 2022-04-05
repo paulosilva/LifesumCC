@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  LifesumCC
+
+  Created by Paulo Silva on 02/04/2022.
+  
+*/
+
+// Something Went Wrong
+
+"kSomethingWentWrongTitel" = "Oops";
+"kSomethingWentWrongMessage" = "Something went wrong";
+
+// Labels
+
+"kCarbsLabel" = "Carbs";
+"kProteinLabel" = "Protein";
+"kFatLabel" = "Fat";
+
+// Messages
+
+"kShakeDeviceMessage" = "Shake your device to get a different food";
+
+// Buttons
+
+"kMoreInfoLabel" = "More Info";
+"kCloseLabel" = "Close";
+
+// Not defined on the AppLocalizableKey struct
+
+// Attibutes to Row Labels
+
+"kRowCarbsLabel" = "carbohydrates";
+"kRowProteinLabel" = "protein";
+"kRowFatLabel" = "fat";
+"kRowFiberLabel" = "fiber";
+"kRowPotassiumLabel" = "potassium";
+"kRowSodiumLabel" = "sodium";
+"kRowSugarLabel" = "sugar";
+"kRowGramsperservingLabel" = "grams per serving";
+"kRowCholesterolLabel" = "cholesterol";
+"kRowUnsaturatedfatLabel" = "unsaturated fat";
+"kRowSaturatedfatLabel" = "saturated fat";
